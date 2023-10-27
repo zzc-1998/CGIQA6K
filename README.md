@@ -12,6 +12,8 @@ Despite the widespread use of CGIs, there's a noticeable gap in the research ded
 
 To bridge this gap, we introduce the **CGIQA-6k** database. It's a large-scale, in-the-wild CGIQA database consisting of 6,000 CGIs. We've conducted subjective experiments in a controlled laboratory environment to obtain accurate perceptual ratings for these CGIs.
 
+![](https://github.com/zzc-1998/CGIQA6K/blob/main/overview.jpg)
+
 ## Features
 
 - **Large-Scale Database**: With 6,000 CGIs, our database is one of the most extensive collections dedicated to CGIQA.
@@ -21,6 +23,7 @@ To bridge this gap, we introduce the **CGIQA-6k** database. It's a large-scale, 
 ## Usage
 
 The onedrive download link is [here](https://1drv.ms/f/s!AjaDoj_-yWggge0HxeUlczDiEgpM0w?e=O5JWHC) 
+The `database' folder contains 6,000 CGIs and the `mos.csv' file contains the subjective mean opinion scores.
 
 ## Citation
 
@@ -34,7 +37,7 @@ If you use the CGIQA-6k database or find our work useful, please cite our paper:
   year={2023},
   publisher={ACM}
 }
-
+```
 
 ## Contact
 
