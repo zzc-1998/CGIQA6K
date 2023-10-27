@@ -1,5 +1,8 @@
 # CGIQA-6k: A Large-Scale Database for Computer Graphics Image Quality Assessment
-Offcial repo for 'Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images'
+Official repo for 'Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images'
+
+![](https://github.com/zzc-1998/CGIQA6K/blob/main/overview.jpg)
+
 ## Introduction
 
 Computer Graphics Images (CGIs) are artificially generated visuals created using computer programs. They are prevalent across various platforms, from video games to streaming media. However, the quality of these CGIs often faces challenges such as poor rendering during production, compression artifacts during multimedia application transmission, and low aesthetic quality due to subpar composition and design.
@@ -12,7 +15,7 @@ Despite the widespread use of CGIs, there's a noticeable gap in the research ded
 
 To bridge this gap, we introduce the **CGIQA-6k** database. It's a large-scale, in-the-wild CGIQA database consisting of 6,000 CGIs. We've conducted subjective experiments in a controlled laboratory environment to obtain accurate perceptual ratings for these CGIs.
 
-![](https://github.com/zzc-1998/CGIQA6K/blob/main/overview.jpg)
+
 
 ## Features
 
