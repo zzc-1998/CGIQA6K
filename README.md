@@ -1,5 +1,5 @@
 # CGIQA-6k: A Large-Scale Database for Computer Graphics Image Quality Assessment
-Official repo for 'Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images', accepted by ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
+Official repo for **'Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images'**, accepted by **ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**.
 
 ![](https://github.com/zzc-1998/CGIQA6K/blob/main/overview.jpg)
 
